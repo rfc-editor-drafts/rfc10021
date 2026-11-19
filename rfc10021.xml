@@ -6,7 +6,7 @@
   <!ENTITY wj     "&#8288;">
 ]>
 <?xml-stylesheet type="text/xsl" href="rfc2629.xslt" ?>
-<rfc xmlns:xi="http://www.w3.org/2001/XInclude" ipr="trust200902" docName="draft-ietf-core-oscore-groupcomm-latest" category="std" consensus="true" submissionType="IETF" xml:lang="en" number="10021" tocInclude="true" sortRefs="true" symRefs="true" version="3">
+<rfc xmlns:xi="http://www.w3.org/2001/XInclude" ipr="trust200902" docName="draft-ietf-core-oscore-groupcomm-28" category="std" consensus="true" submissionType="IETF" xml:lang="en" number="10021" tocInclude="true" sortRefs="true" symRefs="true" version="3">
   <!-- xml2rfc v2v3 conversion 3.34.1 -->
   <link href="https://datatracker.ietf.org/doc/draft-ietf-core-oscore-groupcomm-latest" rel="prev"/>
   <front>
